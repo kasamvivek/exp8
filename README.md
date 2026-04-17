@@ -134,15 +134,6 @@ Successfully implemented JWT-based authentication with session handling and prot
 
 ---
 
-## 🎤 Viva Points
-
-* JWT ensures secure authentication
-* Token stored in sessionStorage
-* Authorization header used for protected APIs
-* Session controls UI rendering
-
----
-
 ## 🔥 Conclusion
 
 This experiment demonstrates a complete full stack authentication flow with secure communication and session-based access control.
